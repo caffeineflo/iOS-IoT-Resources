@@ -7,10 +7,11 @@ This repository serves as a collection of information backing and extending the 
 
 ### Project Structure
 
-The repository is split into two main topics:
+The repository is split into three main topics:
 
 * Mobile Client (IoT) Security
 * Backend (IoT) Security
+* Data Security
 
 Apart from that, the repository follows a loose structure of guidelines and further resources in subfolder adding content to each subfolders README.md.
 
